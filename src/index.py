@@ -67,7 +67,7 @@ def ask():
 
 def decompile():
     global zip_exec
-    os.system("rm login/* || rm root/*")
+    os.system("del login/* || del root/*")
 
     root_trm_cmd = str(f'"{zip_exec}" x {rootFile} -o./decompiled/root')
     os.system(root_trm_cmd)

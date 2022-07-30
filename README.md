@@ -1,6 +1,6 @@
 # _SpotiLight_
 
-#### Version: 1.0.1
+#### Version: 1.0.2
 #### Opensource Spotify CSS/JS Source edditor; Compiler, Decompiler
 #### By _**SK3#5105**_
 

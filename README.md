@@ -12,8 +12,9 @@ Heres mine (Discord Themed): https://github.com/SK3-4121/SpotiLight/blob/main/pr
 
 ## Setup/Installation Requirements
 
-* _No dependencies_
+* _Dependencies 7-Zip, Spotify (Not windows store version)_
 * _Run index.py with python3 in cmd_
+* _Not compatible with MacOSX, Linux_
 ## License
 
 _Please don't share my product without giving me credits._
